@@ -4,6 +4,9 @@
 ![Login](./assets/login.JPG)
 
 
+![Register](./assets/RS.png)
+
+
 
 ## Project Overview
 Login Portal is an innovative authentication interface featuring a dynamic 3D background with glassmorphism UI design. This modern login system provides a visually stunning user experience while maintaining full functionality for user registration, login, and password recovery workflows.
