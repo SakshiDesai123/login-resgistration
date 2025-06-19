@@ -1,7 +1,7 @@
 # Login-Registration
 
-login.png
 
+![Login](./assets/login.png)
 
 
 
