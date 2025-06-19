@@ -1,7 +1,7 @@
 # Login-Registration
 
 
-![Login](./assets/login.png)
+![Login](./assets/login.JPG)
 
 
 
